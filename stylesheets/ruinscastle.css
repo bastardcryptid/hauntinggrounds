@@ -18,7 +18,7 @@
 }
 
 .d20{
-	filter: hue-rotate(-50deg) brightness(65%);
+	filter: hue-rotate(130deg) brightness(55%);
 }
 
 .dice{

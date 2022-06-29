@@ -54,32 +54,6 @@ $(document).ready(function(){
 	"../images/d20/d20-20.png",
 	]
 
-
-/*
-	var d20Urls = [
-	"../images/d20-1.png",
-	"../images/d20-2.png",
-	"../images/d20-3.png",
-	"../images/d20-4.png",
-	"../images/d20-5.png",
-	"../images/d20-6.png",
-	"../images/d20-7.png",
-	"../images/d20-8.png",
-	"../images/d20-9.png",
-	"../images/d20-10.png",
-	"../images/d20-11.png",
-	"../images/d20-12.png",
-	"../images/d20-13.png",
-	"../images/d20-14.png",
-	"../images/d20-15.png",
-	"../images/d20-16.png",
-	"../images/d20-17.png",
-	"../images/d20-18.png",
-	"../images/d20-19.png",
-	"../images/d20-20.png",
-	]
-*/
-
 	$(".answer").on("click", function(){
 		var rollForIt = Math.floor(Math.random()*20);
 		var rollOfDice = rollTheDice(rollForIt);
