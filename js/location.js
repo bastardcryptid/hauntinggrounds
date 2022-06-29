@@ -30,7 +30,7 @@ $(document).ready(function(){
 	var goodOptions = results.goodOptions;
 	var badOptions = results.badOptions;
 
-/*
+
 	var d20Urls = [
 	"../images/d20/d20-1.png",
 	"../images/d20/d20-2.png",
@@ -53,9 +53,9 @@ $(document).ready(function(){
 	"../images/d20/d20-19.png",
 	"../images/d20/d20-20.png",
 	]
-*/
 
 
+/*
 	var d20Urls = [
 	"../images/d20-1.png",
 	"../images/d20-2.png",
@@ -78,7 +78,7 @@ $(document).ready(function(){
 	"../images/d20-19.png",
 	"../images/d20-20.png",
 	]
-
+*/
 
 	$(".answer").on("click", function(){
 		var rollForIt = Math.floor(Math.random()*20);
