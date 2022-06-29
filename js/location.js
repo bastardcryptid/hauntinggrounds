@@ -30,6 +30,7 @@ $(document).ready(function(){
 	var goodOptions = results.goodOptions;
 	var badOptions = results.badOptions;
 
+/*
 	var d20Urls = [
 	"../images/d20/d20-1.png",
 	"../images/d20/d20-2.png",
@@ -52,9 +53,9 @@ $(document).ready(function(){
 	"../images/d20/d20-19.png",
 	"../images/d20/d20-20.png",
 	]
+*/
 
 
-/*
 	var d20Urls = [
 	"../images/d20-1.png",
 	"../images/d20-2.png",
@@ -77,7 +78,7 @@ $(document).ready(function(){
 	"../images/d20-19.png",
 	"../images/d20-20.png",
 	]
-*/
+
 
 	$(".answer").on("click", function(){
 		var rollForIt = Math.floor(Math.random()*20);
@@ -91,7 +92,7 @@ $(document).ready(function(){
 			var result = $("<div class='text'>" + goodOptions[index] + "</div>");
 			$(".cyoa").append(result);
 		}
-		var d20img = $("<div class='dice text'><img class='d20' alt='A d20 die landed on" + rollForIt + "' src='" + rollOfDice + "''></div>");
+		var d20img = $("<div class='dice text'><img class='d20' alt='A d20 die landed on " + rollForIt + "' src='" + rollOfDice + "''></div>");
 		$("body").append(d20img);
 	});
 
