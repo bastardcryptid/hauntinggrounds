@@ -1,0 +1,28 @@
+.field{
+	background-color: #7f8899;
+	background-image: url("../images/field.jpg");
+	background-size: cover;
+}
+
+.cyoa{
+	width: 30%;
+	height: 70%;
+	position: absolute;
+	right: 7%;
+	top: 10%;
+}
+
+.text{
+	background-color: #c4ccc9;
+	border-color: #004f4f;
+}
+
+.d20{
+	filter: hue-rotate(-50deg) brightness(65%);
+}
+
+.dice{
+	position: absolute;
+	top: 3%;
+	right: 45%;
+}

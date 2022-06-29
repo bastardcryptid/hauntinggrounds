@@ -1,0 +1,12 @@
+results = {
+	"goodOptions":[
+		"<p>You jump into the water to try to scare the fish. Frightened, they scatter in all directions like waterdrops. You remember watching icicles melt, waterdrops falling into a puddle underneath and splattering prettily. Your spirits are lifted.</p>", 
+		"<p>You scatter some hardtack crumbs around for the seagulls. A few rush over and start pecking at them. One butts your noncorporeal hand affectionately before offering you a small shell held in its beak. You remember hunting for shells on beaches while you were alive. Your spirits are lifted.</p>", 
+		"<p>You sit down to watch the waves softly beat against the rusted metal. A refreshing breeze passes through you, wheezing as it passes through metal tubing of the ship. It almost sounds like a melody you half-remember from your childhood. Your spirits are lifted.</p>"
+	],
+	"badOptions":[
+		"<p>You jump into the water to try to scare the fish. One of them tries to bite you. Its mouth passes through you. You remember that you will never experience being alive and corporeal again. You are struck with nostalgia for your days of life.</p>", 
+		"<p>You scatter some hardtack crumbs around for the seagulls. A few rush over but by the time they get to you, the hardtack has soaked in saltwater and attracted fish. The fish are too quick, and none of the seagulls get any hardtack nor catch any fish. One of the birds tries to peck at your knee. You remember the saying 'no good deed goes unpunished' and are filled with regret.</p>", 
+		"<p>You sit down to watch the waves softly beat against the rusted metal. You are startled by a loud ocean liner whistle. You whip your non-head around and see a large cruise ship passing by and sending a large wave your way. It beats against the side of the sunken ship, making it careen to the side. It gets terribly uncomfortable to sit, even for a ghost. You are irritated and displeased.</p>"
+	]
+}

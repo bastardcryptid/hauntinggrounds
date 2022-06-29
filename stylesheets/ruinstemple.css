@@ -1,0 +1,28 @@
+.ruinstemple{
+	background-color: #a3a6ad;
+	background-image: url("../images/ruinstemple.jpg");
+	background-size: cover;
+}
+
+.cyoa{
+	width: 30%;
+	height: 70%;
+	position: absolute;
+	right: 2%;
+	top: 20%;
+}
+
+.text{
+	background-color: #c6d9f9;
+	border-color: #5e626d;
+}
+
+.d20{
+	filter: hue-rotate(-50deg) brightness(65%);
+}
+
+.dice{
+	position: absolute;
+	top: 6%;
+	right: 35%;
+}

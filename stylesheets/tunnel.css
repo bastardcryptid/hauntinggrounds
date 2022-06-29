@@ -1,0 +1,28 @@
+.tunnel{
+	background-color: #040b26;
+	background-image: url("../images/tunnel.jpg");
+	background-size: cover;
+}
+
+.cyoa{
+	width: 30%;
+	height: 70%;
+	position: absolute;
+	right: 2%;
+	top: 2%;
+}
+
+.text{
+	background-color: #b4f8ff;
+	border-color: #00164b;
+}
+
+.d20{
+	filter: hue-rotate(-50deg) brightness(65%);
+}
+
+.dice{
+	position: absolute;
+	top: 3%;
+	right: 45%;
+}

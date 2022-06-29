@@ -1,0 +1,12 @@
+results = {
+	"goodOptions":[
+		"<p>You see a passerby through the tunnel. Not entirely unexpected but a potential source of amusement nonetheless. You whisper into the tunnel, 'I know your deepest regrets.' The person looks around, visibly anxious, and, not finding the source of the sound, runs off. You grin, satisfied with yourself. Your spirits are lifted.</p>", 
+		"<p>You start quietly whistling a tune you vaguely remember from your childhood. It echoes through the tunnel, carrying farther and farther. You hear the tune in many parts. Whether it's all echo or someone has joined your impromptu concert, you feel your soul get lighter and the world around you brighten. Your spirits are lifted.</p>", 
+		"<p>You lie on your back at the end of the tunnel, listening to the sound of sea waves brushing against the sand. The cries of seagulls, roar of cars, and many other sounds coming from far away mesh together into a calming symphony. You close your eyes and let yourself not-exist in the moment. Your spirits are lifted.</p>"
+	],
+	"badOptions":[
+		"<p>You see a passerby through the tunnel. Not entirely unexpected but a potential source of amusement nonetheless. You whisper into the tunnel, 'I know your social security nummber.' The person looks more confused than scared and glances around. However, upon not discovering anyone who could have been the source of the phrase, they shrug and keep walking. You feel invisible, unnoticed. With a sense of being insignificant, you watch the passerby leave your field of vision.</p>", 
+		"<p>You start quietly whistling a tune you vaguely remember from your childhood. It echoes through the tunnel, carrying farther and farther. Just then, someone passes by the tunnel and cringes, covering their ears and picking up their pace. You feel disconcerted as you try not to listen to the echo of your own voice for fear of finding thousands of flaws.</p>", 
+		"<p>You lie on your back at the end of the tunnel, listening to the sound of sea waves brushing against the sand. Suddenly, you hear a short piercing cry. As you lift yourhead, you hear another. Frowning, you look down the tunnel, only to see a couple of cats trying to sort something out between them and yelling loudly while they are at it. Shaken and exasperated, you can't hear the waves over the sound of the cats beginning to fight.</p>"
+	]
+}

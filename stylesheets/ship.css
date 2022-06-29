@@ -1,0 +1,29 @@
+.ship{
+	background-color: #7f8899;
+	background-image: url(../images/sunkenship.jpg);
+	background-size: cover;
+}
+
+.cyoa{
+	width: 27%;
+	height: 70%;
+	position: absolute;
+	left: 2%;
+	top: 20%;
+}
+
+.text{
+	background-color: #8cafe7;
+	border-color: #333399;
+}
+
+.d20{
+	/*filter: hue-rotate(90deg);*/
+	filter: brightness(45%)
+}
+
+.dice{
+	position: absolute;
+	top: 3%;
+	left: 35%;
+}
